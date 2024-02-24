@@ -14,9 +14,9 @@ Models are used to represent processes that may contain a deterministic componen
 ### Autoregressive moving average (ARMA)
 
 ### References
-These are the most relevant papers in Finance in order of appearance
+Some of the most relevant papers in Finance in order of appearance
 
-1. [Markowitz - Portfolio Selection](https://doi.org/10.2307/2975974) 1952, modern portfolio theory.
+1. [Markowitz - Portfolio Selection](https://doi.org/10.2307/2975974) 1952, modern portfolio theory, diversification of investments.
 2. [Sharpe - Capital Asset Prices: A Theory of Market Equilibrium Under Condition of Risk](https://doi.org/10.1111/j.1540-6261.1964.tb02865.x) 1964, Capital Asset Pricing Model (CAPM).
 3. [Akerlof - The Markets for "Lemons": Quality Uncertainty and the Market Mechanism](https://www.jstor.org/stable/1879431) 1970, asymmetric information in markets.
 4. [Black, Scholes - The Pricing of Options and Corporate Liabilities](https://doi.org/10.1142/9789814759588_0001) 1973, derivatives and stock options prices.
