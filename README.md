@@ -13,6 +13,9 @@ Models are used to represent processes that may contain a deterministic componen
 
 ### Autoregressive moving average (ARMA)
 
+### Vector autoregression (VAR)
+* [Natural gas price and inflation](energy_price_inflation.ipynb)
+
 ### References
 Some of the most relevant papers in Finance in order of appearance
 
