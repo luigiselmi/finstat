@@ -25,3 +25,6 @@ Some of the most relevant papers in Finance in order of appearance
 4. [Black, Scholes - The Pricing of Options and Corporate Liabilities](https://doi.org/10.1142/9789814759588_0001) 1973, derivatives and stock options prices.
 5. [Ross - The Arbitrage Theory of Capital Asset Pricing](https://www.sciencedirect.com/science/article/abs/pii/0022053176900466?via%3Dihub) 1976, multi-factor asset pricing.
 6. [Fama, French - Common risk factors in the returns on stocks and bonds](https://www.sciencedirect.com/science/article/abs/pii/0304405X93900235) 1993, multi-factor asset pricing.
+
+Tools
+* [Gretl - GNU Regression, Econometrics and Time-series Library](https://gretl.sourceforge.net/)  
