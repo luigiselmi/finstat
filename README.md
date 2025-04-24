@@ -27,4 +27,5 @@ Some of the most relevant papers in Finance in order of appearance
 6. [Fama, French - Common risk factors in the returns on stocks and bonds](https://www.sciencedirect.com/science/article/abs/pii/0304405X93900235) 1993, multi-factor asset pricing.
 
 Tools
-* [Gretl - GNU Regression, Econometrics and Time-series Library](https://gretl.sourceforge.net/)  
+* [Gretl - GNU Regression, Econometrics and Time-series Library](https://gretl.sourceforge.net/)
+* [FRB/US Model, a general equilibrium model of the U.S. economy](https://www.federalreserve.gov/econres/us-models-about.htm)
