@@ -1,9 +1,9 @@
 Finstat
 =======
-This repository contains Jupyter notebooks about financial time series.
+This repository contains Jupyter notebooks about financial time series and portfolio optimization.
 Models are used to represent processes that may contain a deterministic component, a seasonal or cyclical component, and a random component. Being able to represent these components would allow us to simulate the process starting from a data point that is not part of the observations, and to make predictions.
 
-### Time series models
+## Financial Time Series 
 
 ### Random walk
 
@@ -15,6 +15,12 @@ Models are used to represent processes that may contain a deterministic componen
 
 ### Vector autoregression (VAR)
 * [Natural gas price and inflation](energy_price_inflation.ipynb)
+
+## Portfolio Optimization
+The notebooks are based on two books
+
+* [Palomar - Portfolio Optimization](palomar/README.md)
+* [Cajas - Advanced Portfolio Optimization](cajas/README.md)
 
 ### References
 Some of the most relevant papers in Finance in order of appearance
