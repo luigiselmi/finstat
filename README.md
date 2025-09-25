@@ -17,10 +17,11 @@ Models are used to represent processes that may contain a deterministic componen
 * [Natural gas price and inflation](energy_price_inflation.ipynb)
 
 ## Portfolio Optimization
-The notebooks are based on two books
+The notebooks are based on the books
 
 * [Palomar - Portfolio Optimization](palomar/README.md)
 * [Cajas - Advanced Portfolio Optimization](cajas/README.md)
+* [Hilpisch - Python for Finance, 2nd Edition](hilpisch/README.md)
 
 ### References
 Some of the most relevant papers in Finance in order of appearance
