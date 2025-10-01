@@ -27,7 +27,9 @@ Some of the most relevant papers in Finance in order of appearance
 ## Python packages
 * [PyPortfolioOpt](https://pyportfolioopt.readthedocs.io/en/latest/)  
 * [skfolio](https://skfolio.org/)  
-* [Riskfolio-Lib](https://pypi.org/project/Riskfolio-Lib/)  
+* [Riskfolio-Lib](https://pypi.org/project/Riskfolio-Lib/)
+* [Goldman Sachs Open Source](https://developer.gs.com/)
+* [BlackRock Engineering](https://engineering.blackrock.com/)  
 
 ## Tools
 * [Gretl - GNU Regression, Econometrics and Time-series Library](https://gretl.sourceforge.net/)
