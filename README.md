@@ -36,3 +36,8 @@ Some of the most relevant papers in Finance in order of appearance
 ## Tools
 * [Gretl - GNU Regression, Econometrics and Time-series Library](https://gretl.sourceforge.net/)
 * [FRB/US Model, a general equilibrium model of the U.S. economy](https://www.federalreserve.gov/econres/us-models-about.htm)
+
+## Financial datasets
+* [Nasdaq](https://www.nasdaq.com/)
+* [LOBSTER](https://lobsterdata.com/info/DataSamples.php)
+
