@@ -40,4 +40,5 @@ Some of the most relevant papers in Finance in order of appearance
 ## Financial datasets
 * [Nasdaq](https://www.nasdaq.com/)
 * [LOBSTER](https://lobsterdata.com/info/DataSamples.php)
+* [Center for Research in Security Prices](https://www.crsp.org/)
 
