@@ -44,5 +44,7 @@ Some of the most relevant papers in Finance in order of appearance
 ## Macroeconomic models
 * [FRB/US Model, a general equilibrium model of the U.S. economy](https://www.federalreserve.gov/econres/us-models-about.htm)
 * [Dynare](https://www.dynare.org/), dynamic stochastic general equilibrium (DSGE) model
-* [DSGE-net](https://www.dsge.net/), DSGE modeling 
+* [DSGE-net](https://www.dsge.net/), DSGE modeling
+* [QUEST III - The model](https://joint-research-centre.ec.europa.eu/projects-and-activities/macroeconomic-monitoring-fiscal-surveillance-forecasting-and-nowcasting/quest-iii-macroeconomic-model_en), macroeconoomic model of the European Commission (with Mathlab code)
+* [Italian Treasury Econometric Model (ITEM)](https://www.dt.mef.gov.it/it/attivita_istituzionali/analisi_programmazione_economico_finanziaria/modellistica/item.html)  
 
