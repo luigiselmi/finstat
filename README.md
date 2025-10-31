@@ -27,6 +27,8 @@ Some of the most relevant papers in Finance in order of appearance
 * [Hilpisch - Python for Finance, 2nd Edition](hilpisch/README.md)
 
 ## Python packages
+* [statsmodels](https://www.statsmodels.org/stable/index.html), statistical models and data analysis  
+* [skforecast](https://skforecast.org/0.18.0/), time series forecasting using machine learning models  
 * [PyPortfolioOpt](https://pyportfolioopt.readthedocs.io/en/latest/)  
 * [skfolio](https://skfolio.org/)  
 * [Riskfolio-Lib](https://pypi.org/project/Riskfolio-Lib/)
