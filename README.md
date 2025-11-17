@@ -25,6 +25,7 @@ Some of the most relevant papers in Finance in order of appearance
 * [Palomar - Portfolio Optimization](palomar/README.md)
 * [Cajas - Advanced Portfolio Optimization](cajas/README.md)
 * [Hilpisch - Python for Finance, 2nd Edition](hilpisch/README.md)
+* [Easley, Kleinberg - Networks, Crowds, and Markets: Reasoning about a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
 
 ## Python packages
 * [statsmodels](https://www.statsmodels.org/stable/index.html), statistical models and data analysis  
