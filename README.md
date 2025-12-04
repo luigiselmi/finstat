@@ -34,7 +34,8 @@ Some of the most relevant papers in Finance in order of appearance
 * [skfolio](https://skfolio.org/)  
 * [Riskfolio-Lib](https://pypi.org/project/Riskfolio-Lib/)
 * [Goldman Sachs Open Source](https://developer.gs.com/)
-* [BlackRock Engineering](https://engineering.blackrock.com/)  
+* [BlackRock Engineering](https://engineering.blackrock.com/)
+* [tsfresh](https://github.com/blue-yonder/tsfresh), time series feature extraction based on scalable hypothesis tests
 
 ## Tools
 * [Gretl - GNU Regression, Econometrics and Time-series Library](https://gretl.sourceforge.net/)
