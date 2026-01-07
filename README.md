@@ -10,6 +10,7 @@ Models are used to represent processes that may contain a deterministic componen
 * [Energy price inflation](experiments/energy_price_inflation.ipynb)
 * [Google vs NVIDIA stock prices](goog_nvda_prces.ipynb)
 * [Yahoo Finance](experiments/yahoo_finance.ipynb)
+* [Investment Management Specialization](uni_geneva/README.md)
 
 ## References
 Some of the most relevant papers in Finance in order of appearance
