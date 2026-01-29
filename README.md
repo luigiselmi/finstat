@@ -52,3 +52,7 @@ Some of the most relevant papers in Finance in order of appearance
 * [DSGE-net](https://www.dsge.net/), DSGE modeling
 * [QUEST III - The model](https://joint-research-centre.ec.europa.eu/projects-and-activities/macroeconomic-monitoring-fiscal-surveillance-forecasting-and-nowcasting/quest-iii-macroeconomic-model_en), macroeconoomic model of the European Commission (with Mathlab code)
 * [Italian Treasury Econometric Model (ITEM)](https://www.dt.mef.gov.it/it/attivita_istituzionali/analisi_programmazione_economico_finanziaria/modellistica/item.html)  
+
+## Competitions
+* [NUMERAI](https://numer.ai/)
+* [FTMO](https://ftmo.com/en/)
