@@ -32,8 +32,8 @@ Some of the most relevant papers in Finance in order of appearance
 * [statsmodels](https://www.statsmodels.org/stable/index.html), statistical models and data analysis  
 * [skforecast](https://skforecast.org/0.18.0/), time series forecasting using machine learning models  
 * [PyPortfolioOpt](https://pyportfolioopt.readthedocs.io/en/latest/)  
-* [skfolio](https://skfolio.org/)  
-* [Riskfolio-Lib](https://pypi.org/project/Riskfolio-Lib/)
+* [skfolio](https://skfolio.org/), portfolio optimization and risk management built on top of scikit-learn  
+* [Riskfolio-Lib](https://pypi.org/project/Riskfolio-Lib/), Python library used in Cajas' book
 * [Goldman Sachs Open Source](https://developer.gs.com/)
 * [BlackRock Engineering](https://engineering.blackrock.com/)
 * [tsfresh](https://github.com/blue-yonder/tsfresh), time series feature extraction based on scalable hypothesis tests
@@ -52,4 +52,3 @@ Some of the most relevant papers in Finance in order of appearance
 * [DSGE-net](https://www.dsge.net/), DSGE modeling
 * [QUEST III - The model](https://joint-research-centre.ec.europa.eu/projects-and-activities/macroeconomic-monitoring-fiscal-surveillance-forecasting-and-nowcasting/quest-iii-macroeconomic-model_en), macroeconoomic model of the European Commission (with Mathlab code)
 * [Italian Treasury Econometric Model (ITEM)](https://www.dt.mef.gov.it/it/attivita_istituzionali/analisi_programmazione_economico_finanziaria/modellistica/item.html)  
-
